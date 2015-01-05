@@ -1,0 +1,13 @@
+{
+    "name": "zendmaniacs/extjs5",
+    "description": "ExtJS 5.1.0.107 distro",
+    "license": "GPLv2",
+    "type": "zend-extra",
+    "keywords": [
+        "zendmaniacs",
+        "extjs5"
+    ],
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
